@@ -21,7 +21,7 @@ i {
 
 }
 
-.headPost {
+.head-post {
 
     display: flex;
     justify-content: space-between;
@@ -32,19 +32,19 @@ i {
 
 }
 
-.headPost-izquierda {
+.head-post-left {
     display: flex;
     justify-content: space-around;
 
 }
 
-.IconPost {
+.icon-post {
     display: flex;
     justify-content: space-between;
     padding: 15px;
 }
 
-.footerPost {
+.footer-post {
     max-width: 500px;
     padding: 0px 15px 15px 15px;
 }
@@ -54,7 +54,7 @@ img {
     width: 530px;
 }
 
-.Title {
+.title {
     padding-left: 20px;
 
 }
